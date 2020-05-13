@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender">
+        <item>Kobieta</item>
+        <item>Mężczyzna</item>
+    </string-array>
+
+    <string-array name="QuestionAnswers">
+        <item>
+            <string-array name="question1">
+                <item>Korona;</item>
+                <item>Lech;</item>
+                <item>Tyskie;</item>
+                <item>Żywiec;</item>
+                <item>1</item>
+            </string-array>
+        </item>
+        <item>
+            <string-array name="question2">
+                <item>Nietoperza;</item>
+                <item>Myszy;</item>
+                <item>Skunksa;</item>
+                <item>Karalucha;</item>
+                <item>1</item>
+            </string-array>
+        </item>
+        <item>
+            <string-array name="question3">
+                <item>Wąchock;</item>
+                <item>Wuchan;</item>
+                <item>Sosnowiec;</item>
+                <item>Wifon;</item>
+                <item>2</item>
+            </string-array>
+        </item>
+        <item>
+            <string-array name="question4">
+                <item>Tak;</item>
+                <item>Nie;</item>
+                <item>Nie_jeśli_umyjesz_ręce;</item>
+                <item>Nikt_tego_jeszcze_nie_próbował;</item>
+                <item>1</item>
+            </string-array>
+        </item>
+        <item>
+            <string-array name="question5">
+                <item>Tylko_pity_w _saunie;</item>
+                <item>Tylko_powyżej_stężenia_90%;</item>
+                <item>Tylko_poprzez_kąpiel;</item>
+                <item>Nie_ma_na_to_dowodów;</item>
+                <item>4</item>
+            </string-array>
+        </item>
+        <item>
+            <string-array name="question6">
+                <item>Każdy;</item>
+                <item>Tylko_starzy_ludzie;</item>
+                <item>Tylko_młodzi_ludzie;</item>
+                <item>Nikt_nie_umiera,_media_kłamią;</item>
+                <item>1</item>
+            </string-array>
+        </item>
+    </string-array>
+    <string-array name="Questions">
+        <item>Jaka marka piwa straciła najwięcej akcji /n od wybuchu pandemii koronawirusa</item>
+        <item>Od jakiego zwierzęcia prawdopodobnie pochodzi Koronawirus</item>
+        <item>W jakim mieście miał początek koronawirus</item>
+        <item>Czy koronawirus przenosi się drogą płciową</item>
+        <item>Czy Alkohol zabija koronwirusa</item>
+        <item>Kto może umrzeć na koronowirusa</item>
+    </string-array>
+</resources>
